@@ -91,4 +91,4 @@ This is an individual logic and reasoning task. All work must be your own.
 ---
 
 Instructor: Marvin Evins  
-Course: Exploring Computer Science / AP Computer Science Principles  
+Course:  AP Computer Science Principles  
